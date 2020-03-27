@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Question4</string>
+    <string name="Insert_error_text">Insert error text</string>
+    <string name="Insert_error" />
+    <string name="Insert_error1">error</string>
+    <string name="change_password01">Change Password</string>
+    <string name="message">Message</string>
+    <string name="update">update</string>
+    <string name="re_enter_new_password">Re-enter new password</string>
+    <string name="enter_new_password">Enter new password</string>
+    <string name="_123_123">123@123</string>
+    <string name="enter_old_password">Enter old password</string>
+    <string name="dummy01">Dummy</string>
+    <string name="dummy02">Dummy</string>
+    <string name="dummy03">Dummy</string>
+    <string name="dummy04">Dummy</string>
+    <string name="dummy05">Dummy</string>
+    <string name="dummy06">Dummy</string>
+    <string name="dummy07">Dummy</string>
+    <string name="dummy08">Dummy</string>
+    <string name="change_password">Change Password</string>
+    <string name="country_codes">Country Codes</string>
+    <string name="dashboard">Dashboard</string>
+</resources>
